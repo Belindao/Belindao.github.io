@@ -1,0 +1,117 @@
+.jumbotron {
+  background-image:url('https://41.media.tumblr.com/e64e71a100fc97535845ab3b3afc198f/tumblr_nvt3g8ACXP1r79fg6o1_1280.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 70px;
+}
+
+.jumbotron .container h1 {
+  position: relative;
+  top: 0px;
+  color: #faf5e2;
+  font-size: 60px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron .container p {
+  position: relative;
+  top: 13px;
+  font-size: 30px;
+  color: #FAF5E2;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+   height: 435px;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more p {
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides {
+  background-color: #ffffff;
+  height: 700px;
+        border-bottom: 1px solid #dbdbdb;
+        background-repeat: no-repeat;
+  background-size: cover;
+}
+    
+.neighborhood-guides .container h2 {
+  color: #7f7f7f;
+  font-size: 28px;
+  font-family: 'Shift', sans-serif;
+  font-style: normal;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin.bottom: 13px;
+}
+
+.neighborhood-guides .container h1 {
+color: #ffedcc;
+  font-size: 60px; 
+  text-shadow: 2px 2px #ffa500; 
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+
+.US {
+  background-color: #e5e5e5;
+  height: 990px;
+  position: relative;
+}
+
+.US {
+  background-color: #e5e5e5;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.US .container h1 {
+color: #faf5e2;
+  font-size: 60px; 
+  text-shadow: 2px 2px #ffa500; 
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.US .container p {
+   font-weight: bold;
+}
+
+.last-part {
+  background-image:url('https://41.media.tumblr.com/0b1c36098ec592a812ca7006a29f5497/tumblr_nvwpkxqv2k1r79fg6o1_1280.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.last-part .container h1 {
+   position: relative;
+  top: 120px;
+  color: #faf5e2;
+  font-size: 60px; 
+  text-shadow: 2px 2px #ffa500; 
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
